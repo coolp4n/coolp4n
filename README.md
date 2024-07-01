@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently Dying
+
+<div>
+<image src=https://github.com/coolp4n/coolp4n/assets/65232792/8d3a7049-2af6-402d-bd75-1680e1768228>
+<div/>
